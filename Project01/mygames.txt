@@ -1,0 +1,17 @@
+Dealer busts. Player wins!
+Player Hand: [6, 9, 6] : 21 (Total: 21)
+Dealer Hand: [2, 10, 11] : 23 (Total: 23)
+
+Game result: 1
+
+Dealer busts. Player wins!
+Player Hand: [10, 10] : 20 (Total: 20)
+Dealer Hand: [9, 4, 11] : 24 (Total: 24)
+
+Game result: 1
+
+Dealer wins!
+Player Hand: [3, 8, 5] : 16 (Total: 16)
+Dealer Hand: [9, 10] : 19 (Total: 19)
+
+Game result: -1
